@@ -12,5 +12,7 @@ N/A
 ## Credits
 https://github.com/imanmogh/workScheduler
 
+https://imanmogh.github.io/weatherDashboard/
+
 ## License
 M/A
